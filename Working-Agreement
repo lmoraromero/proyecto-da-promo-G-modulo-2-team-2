@@ -1,0 +1,27 @@
+
+PRIMER SPRINT: 27 febrero
+SEGUNDO SPRINT: 7 marzo
+DEMO: 13 marzo
+
+Primera SCRUM MASTER: Laura M
+Segunda SCRUM MASTER:
+
+1. HORARIOS: A demanda
+2. COMUNICACIÓN: Grupo de wa para día a día. Reuniones en SLACK
+3. NOMBRE: Madurando
+4. SER RESPETUOSAS CON LAS COMPAÑERAS (puntuales, ser profesionales, escucharnos entre nosotras...)
+5. ORGANIZACIÓN:
+  - REPARTO:
+6. CRITERIOS DE ACEPTACIÓN:
+    - Crear la infraestructura necesaria: repositorio en GitHub y con acceso para todos los miembros del equipo.
+    - Extraer datos de distintas fuentes de datos y creación de una Base de Datos.
+    - Tener la extracción de datos, creación de la Base de Datos e insercción de datos automatizada en funciones(obligatorio) y clases(optativo)
+    - Tener en el repositorio de GitHub todo el código del desarrollo del proyecto.
+7. PLANIFICACIÓN: CREAR HOJA DE EXCEL CON PRIORIDADES DE LAS TAREAS, PROJECT EN GITHUB
+8. HISTORIAS DE USUARIO:
+  Para la gestión del proyecto, usaremos historias de usuario. Las historias de usuario son descripciones breves y concretas de las funcionalidades o características que un usuario espera encontrar en un producto o sistema. Recordemos que, las historias de usuario son una herramienta importante para asegurarse de que el equipo de desarrollo (es decir, nosotras) entienda las necesidades de los usuarios y construya el producto de manera efectiva.
+    - Si bien estas historias de usuario puede resultar un poco complejas para el tema que nos ocupa, podemos definir unas historias de usuario más claras para este proyecto, estas pueden ser:
+    - Seleccionar las herramientas con las que vamos a sacar los datos.
+    - Decidir la estructura de la base de datos.
+    - Insercción de los datos en la base de datos.
+    - Realización de queries para contestar a las preguntas planteadas.
