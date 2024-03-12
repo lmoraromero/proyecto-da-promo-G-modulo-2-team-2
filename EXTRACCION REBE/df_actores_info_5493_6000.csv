@@ -1,0 +1,509 @@
+,Nombre,Nacimiento,Conocido,Que hace,Premios,Oscar
+0,John Pearson,Desconocido,"['Maximum Risk', 'Lexx', 'Shaken Not Stirred', 'Inevitable Grace']",['Actor'],Desconocido,--
+1,Kristiina Elstelä,Desconocido,"['Sooloilua', 'Vallan miehet', 'Älywapaa palokunta', 'Lyrics and Lace']","['Actress', 'Script and Continuity Department', 'Soundtrack']",1 win,--
+2,Frans Flander,Desconocido,['Noita'],['Actor'],Desconocido,--
+3,Sari Havas,1962,"['Häjyt', 'Vapaa pudotus', 'Puhtaat valkeat lakanat', 'Hobitit']","['Actress', 'Writer', 'Soundtrack']",1 nomination,--
+4,Roope Karisto,Desconocido,"['Tom of Finland', 'Viimeinen hääpäivä', 'Premiere', 'Risto']","['Actor', 'Producer', 'Additional Crew']",Desconocido,--
+5,Heidi Lundberg,Desconocido,['Noita'],['Actor'],Desconocido,--
+6,Jukka Pitkänen,1960,"['Vain muutaman huijarin tähden', 'Turvetta ja timantteja', 'Seitsemän', 'Hyvien ihmisten kylä']",['Actor'],Desconocido,--
+7,Sophie Lee,1968,"[""Muriel's Wedding"", 'The Castle', 'Bootmen', 'Mental']",['Actress'],2 nominations,--
+8,Aaron Pedersen,1970,"['Mystery Road', 'Goldstone', 'Mystery Road', 'Darklovestory']","['Actor', 'Producer', 'Additional Crew']",8 wins & 10 nominations,--
+9,David Gulpilil,Desconocido,"['Rabbit-Proof Fence', 'Crocodile Dundee', 'Australia', 'Walkabout']","['Actor', 'Music Department', 'Writer']",13 wins & 8 nominations,--
+10,Rachel Gordon,1976,"['The Moodys', 'Blue Heelers', 'Neighbours', 'Home and Away']","['Actress', 'Writer']",1 win & 1 nomination,--
+11,Trisha Morton-Thomas,Desconocido,"['8MMM Aboriginal Radio', 'Occupation: Native', 'MaveriX', 'The Song Keepers']","['Actress', 'Producer', 'Additional Crew']",1 win & 2 nominations,--
+12,Sarah Farooqui,Desconocido,"['Iron Man 3', 'Lost', 'British Hustle', 'Mile High']","['Actress', 'Stunts']",3 wins & 2 nominations,--
+13,Hunter,Desconocido,['Hollywood Action Movie'],['Actor'],Desconocido,--
+14,Michael Koltes,Desconocido,"['The Passport', 'Feng Zheng (kite)', 'Three-Body', 'Robin Hood']","['Actor', 'Writer', 'Producer']",6 wins & 3 nominations,--
+15,Kai Maurer,1972,"['U-571', 'Splinter', 'Eldorado', 'Red Dwarf']","['Actor', 'Producer', 'Director']",Desconocido,--
+16,Jason Simmons,Desconocido,['Hollywood Action Movie'],['Actor'],Desconocido,--
+17,Eric Fensler,Desconocido,"['Tim and Eric Awesome Show, Great Job!', 'Flying Lotus: Parisian Goldfish', 'The Terrys', 'Tim and Eric Awesome Show Great Job! Awesome 10 Year Anniversary Version, Great Job?']","['Writer', 'Actor', 'Director']",Desconocido,--
+18,Tim Nicola,Desconocido,[],[],Desconocido,--
+19,Josh Smith,Desconocido,"['Moonrise Kingdom', 'The Consumed', 'Pandi', 'Stumble Down Stillwell']","['Editor', 'Director', 'Writer']",Desconocido,--
+20,Martin Saytrib,Desconocido,['Stumble Down Stillwell'],"['Actor', 'Writer']",Desconocido,--
+21,Crystal Pistol,Desconocido,['Stumble Down Stillwell'],['Actress'],Desconocido,--
+22,Robert McCullar,Desconocido,"['Affairs in Order', 'That Guy', 'Go Faux']",['Actor'],Desconocido,--
+23,Robert Baker Shaw,Desconocido,"['Like His Father', ""Eddie's Winning Date"", 'That Guy', 'Go Faux']","['Actor', 'Composer', 'Sound Department']",Desconocido,--
+24,Murray Hill,1971,"['Somebody Somewhere', 'Life & Beth', 'Drag Me to Dinner', 'Welcome to Flatch']",['Actor'],2 nominations,--
+25,Greg 'G-Spot' Siebel,Desconocido,"['Alvin and the Chipmunks', 'Terror Firmer', 'The Seduction of Dr. Fugazzi', 'CSI: Crime Scene Investigation']",['Actor'],Desconocido,--
+26,Heidi Sjursen,Desconocido,"['A Potato Chip Tale', 'Citizen Toxie: The Toxic Avenger IV', 'Sell Out', 'Operation Midnight Climax']","['Actress', 'Director', 'Writer']",Desconocido,--
+27,Gina Volpe,Desconocido,"['Sell Out', 'Nefertitty in Space', 'Prey for Rock & Roll', 'Fashion Trashin']","['Composer', 'Actress', 'Art Department']",Desconocido,--
+28,The World Famous *BoB*,Desconocido,"['Shortbus', 'Paid in Full', 'Nefertitty in Space', 'Slim and Lena']","['Actor', 'Music Department']",Desconocido,--
+29,Jim Carretta,Desconocido,"['A Thousand and One', 'First Time Female Director', 'Untitled the Weeknd & Trey Edward Shults Project', 'Deadpool 2']","['Editorial Department', 'Editor', 'Actor']",Desconocido,--
+30,Johnny Davis,Desconocido,"['Fractalus', 'The Unwilling', 'Broken Program', 'Trannies']",['Actor'],Desconocido,--
+31,Doug Farris,Desconocido,"['Fight Camp 360: Inside the Super Six World Boxing Classic', 'Official 2012 World Series Film', 'Seeker & Fetch', 'UFC 25 Years in Short']","['Sound Department', 'Camera and Electrical Department', 'Actor']",Desconocido,--
+32,C. Ross Fetterman,Desconocido,['Coping'],['Actor'],Desconocido,--
+33,Jeffrey Fleming,Desconocido,"['Dumbbells', 'Phoenix', ""It's Temporary"", 'Coping']","['Actor', 'Camera and Electrical Department', 'Casting Director']",Desconocido,--
+34,Mike Hales,Desconocido,['Coping'],['Actor'],Desconocido,--
+35,Jack Kelly,21,"['Beautifully Flawed', 'Lady Driver', 'Paper Dream', '7th Street Theater']","['Actor', 'Casting Department', 'Casting Director']",Desconocido,--
+36,Dave Linden,Desconocido,"['Life on a Leash', 'General Hospital', 'Santiara', ""Accidents Don't Happen""]","['Actor', 'Additional Crew']",Desconocido,--
+37,Chad Olson,Desconocido,"['Crucifix Wizard', 'Ornaments', 'Coping']",['Actor'],Desconocido,--
+38,Christopher Parr,Desconocido,['Coping'],['Actor'],Desconocido,--
+39,Brian Baldini,Desconocido,"[""Let's Spend Some Time with Gym"", 'Melody', 'Tide of Whispers', 'Trafficked']","['Actor', 'Writer', 'Producer']",Desconocido,--
+40,Andy Forrest,1963,"['The Lempke Brothers', 'Pushing Daisies', 'Evolved', ""P.J. O'Rourke: The Movie""]","['Actor', 'Director', 'Producer']",Desconocido,--
+41,Randy Kent,1972,"['Road King', 'Cafe in the Void', 'Life, Death and Mini-Golf', 'Chinese Speaking Vampires']","['Director', 'Producer', 'Editor']",15 wins & 5 nominations,--
+42,Kristina Copeland,1973,"['88 Minutes', 'Savage Island', 'Stargate SG-1', 'Andromeda']","['Actress', 'Producer']",2 wins,--
+43,Kristina Agosti,Desconocido,"['Chaos', 'Strange World', 'Locked in a Garage Band', 'Midnight Marathon']","['Actress', 'Casting Director', 'Producer']",Desconocido,--
+44,Victoria Deschanel,Desconocido,"['Life or Something Like It', 'Late Night Sessions', 'Horsey', 'Girl King']",['Actress'],Desconocido,--
+45,Jim Bates,Desconocido,['Transit'],"['Actor', 'Producer']",Desconocido,--
+46,Lori Gillis,1970,"['Final Destination 3', 'Willard', 'Lemonade', 'Superman & Lois']","['Art Department', 'Additional Crew', 'Actress']",Desconocido,--
+47,Mary McDonald,Desconocido,"['Cinderella; Single Again', 'My 5 Wives', 'Chain of Fools', 'Highlander']",['Actress'],Desconocido,--
+48,Brianna Mason,Desconocido,"['Educated Guess', 'Revenge Inc.', 'Undone', 'The Dildo Song']",['Actress'],Desconocido,--
+49,Blair MacDonald,Desconocido,"['The King of Fighters', 'Pickle', 'Kraken: Tentacles of the Deep', ""Kickin' It Old Skool""]","['Transportation Department', 'Actor', 'Director']",Desconocido,--
+50,Patrick Spring,Desconocido,['The Provoker'],['Actor'],Desconocido,--
+51,Kris Black,1977,"['Verotika', 'Feud', 'Hostage House', 'Into the Wild Frontier']","['Producer', 'Actor', 'Writer']",Desconocido,--
+52,Michael Buonomo,1978,"['A League of Their Own', 'Judas and the Black Messiah', 'NCIS', 'The Newsroom']","['Actor', 'Writer', 'Casting Department']",1 nomination,--
+53,Jason Reehm,Desconocido,['The Provoker'],['Actor'],Desconocido,--
+54,Rundy Duphiney,Desconocido,['The Provoker'],['Actor'],Desconocido,--
+55,Levi Powell,Desconocido,"['Kitchen Circus', 'In Memorium', 'Backstage Pass', 'The Provoker']","['Actor', 'Make-Up Department']",Desconocido,--
+56,Jasen Salvatore,9,"['Crazy, Stupid, Love.', 'Date Movie']","['Actor', 'Additional Crew', 'Executive']",Desconocido,--
+57,Hector Hurtado,Desconocido,"['Creaking of the Door', 'Bit of Himself', 'The Provoker']","['Actor', 'Special Effects', 'Camera and Electrical Department']",Desconocido,--
+58,John Chaney,Desconocido,"['The Violent Kind', 'Gregory Way TV', 'The Provoker', 'Cupids']",['Actor'],Desconocido,--
+59,Eric Brian,Desconocido,['The Provoker'],['Actor'],Desconocido,--
+60,David Beatty,1,"['The White Room', 'Get Spy', 'The Human Project', 'The Wasteland']","['Actor', 'Writer', 'Director']",3 wins & 4 nominations,--
+61,Vance Mitchell,Desconocido,"['Cadenza', 'Relapse', 'Porno', 'The Product']","['Actor', 'Writer', 'Camera and Electrical Department']",Desconocido,--
+62,Meredith Maxim,Desconocido,"['Relapse', 'Cadenza']","['Actress', 'Additional Crew']",Desconocido,--
+63,Herb Newsome,Desconocido,"['Shoreline Project', 'Untamed', 'American Exit', 'The Brother from Another Planet']","['Actor', 'Writer']",Desconocido,--
+64,Melissa Osborne,Desconocido,"[""Pimpin' Ain't Easy""]",['Actress'],Desconocido,--
+65,Jennifer Reynolds,Desconocido,"[""Pimpin' Ain't Easy""]",['Actress'],Desconocido,--
+66,Jennifer Baxter,1976,"['Land of the Dead', 'Frequency', 'Dark Water', 'Ham & Cheese']","['Actress', 'Writer', 'Producer']",2 nominations,--
+67,Alison Pill,1985,"['Scott Pilgrim vs. the World', 'Goon', 'Milk', 'Dan in Real Life']","['Actress', 'Soundtrack']",3 wins & 13 nominations,--
+68,Todd Lampe,Desconocido,"['Strongerable', 'Artificially Speaking', 'The Evolution of Communication', 'The Way He Makes Them Feel: A Michael Jackson Fan Documentary']","['Director', 'Editor', 'Writer']",Desconocido,--
+69,Frank Walton,Desconocido,"['Tank Girl', 'Days of Our Lives', 'Tough and Deadly', 'The Commish']",['Actor'],Desconocido,--
+70,Jason Rockney,Desconocido,"['Artificially Speaking', 'Qué Pizza', 'What was that?']",['Actor'],Desconocido,--
+71,Mike Ciccolini,Desconocido,"[""Beethoven's 3rd"", 'CinemaFone', '2002: The Rape of Eden', 'Strongerable']","['Actor', 'Writer', 'Producer']",Desconocido,--
+72,Warner Munroe,Desconocido,"['Rogue Galaxy', 'Clash-A-Rama!', 'The Wild Thornberrys', 'Rugrats Go Wild']","['Additional Crew', 'Actor', 'Art Department']",Desconocido,--
+73,Billy Devlin,1969,"['Rush Hour', 'National Treasure: Book of Secrets', 'The Taking of Pelham 123', 'Armageddon']","['Actor', 'Writer']",Desconocido,--
+74,Paul Herman,Desconocido,"['American Hustle', 'Heat', 'Silver Linings Playbook', 'The Irishman']",['Actor'],4 wins & 2 nominations,--
+75,Rodney Sherwood,1964,"['Grimm', 'Long Strange Trip, or the Writer, the Naked Girl, and the Guy with a Hole in His Head', '7 Minutes', 'Leverage']","['Actor', 'Writer']",Desconocido,--
+76,Bianca Bellange,Desconocido,"['RED 2', 'The Glass Castle', 'Virgin Assassins', 'Les mains noires']","['Actress', 'Producer', 'Writer']",Desconocido,--
+77,Emma Sara,Desconocido,"['Diabolical', ""God's Little Girl"", 'Cecile', 'Girl Boxer']","['Actress', 'Script and Continuity Department', 'Sound Department']",Desconocido,--
+78,Alison Ball,Desconocido,"['The Resident', 'S.W.A.T.', 'For The People', 'Rush Hour']","['Actress', 'Producer', 'Writer']",Desconocido,--
+79,Andrew Ball,Desconocido,"['My Sister Nina', 'Stand Sentry', 'The Bone', 'Circle of Death']","['Cinematographer', 'Actor', 'Second Unit Director or Assistant Director']",Desconocido,--
+80,Michael Barnecot,Desconocido,['Circle of Death'],['Actor'],Desconocido,--
+81,Kristopher Bernard,Desconocido,"['The Better Angels', 'Circle of Death', 'Gone in 30 Seconds']","['Art Department', 'Music Department', 'Actor']",Desconocido,--
+82,Kevin Breen,Desconocido,['Circle of Death'],['Actor'],Desconocido,--
+83,Leo Gilmore,Desconocido,['Circle of Death'],"['Actor', 'Stunts']",Desconocido,--
+84,Sam Margolius,Desconocido,"['Joker', 'Jessica Jones', 'Doctor Sleep', 'Daredevil']","['Visual Effects', 'Producer', 'Actor']",Desconocido,--
+85,Matthew Mills,Desconocido,['Circle of Death'],['Actor'],Desconocido,--
+86,Andrew North,Desconocido,"['Circle of Death', 'BBC Four News', 'BBC World News', 'US Election Night']",['Actor'],Desconocido,--
+87,Mike Norton,Desconocido,['Circle of Death'],['Actor'],Desconocido,--
+88,Robert E. Dorfman,Desconocido,"['The Legend', 'Once Upon a Once Upon', 'Dirty Laundry']","['Producer', 'Actor']",Desconocido,--
+89,Maryann Feierstein,Desconocido,"['Once Upon a Once Upon', 'Peoples', 'TakePart Live', 'Battle of the Album Covers']","['Producer', 'Actress', 'Production Manager']",Desconocido,--
+90,Jennifer Gibbs,Desconocido,"['Ghost Stories', 'Once Upon a Once Upon']",['Actress'],Desconocido,--
+91,Trevor Jones,1977,"['Timeline', 'Bounty Killer', 'Across the Hall', 'Another Harvest Moon']","['Producer', 'Second Unit Director or Assistant Director', 'Actor']",1 win,--
+92,Michael Pemberton,Desconocido,"['Bridge of Spies', ""Brooklyn's Finest"", 'The Family Stone', 'Veep']","['Actor', 'Composer']",1 win,--
+93,Ed Miller,Desconocido,"['The Suicide Notes', 'Wait a Minute', 'Have a Nice Day: A Day in the Life of Sid Montgomery', 'Temporary']","['Actor', 'Writer']",Desconocido,--
+94,Daryl Strauss,Desconocido,"['Days of Our Lives', 'Shades of Gray', 'Bad Channels']",['Actress'],Desconocido,--
+95,Vito de Francesco,Desconocido,"['Stormworld', 'Upside Down', 'The Precipice', 'The Reckoning']","['Actor', 'Writer', 'Composer']",Desconocido,--
+96,Chris Gibbs,Desconocido,"['The BFG', 'Plan Live from Outer Space', 'The Samaritan', 'The Penumbra']","['Actor', 'Writer', 'Producer']",Desconocido,--
+97,Frank Gugliotta,Desconocido,['Upside Down'],"['Actor', 'Writer']",Desconocido,--
+98,Geoff Miethe,Desconocido,"['Parallax', 'Two Fists, One Heart', 'Teesh and Trude', 'The Shark Net']",['Actor'],Desconocido,--
+99,Andrew Supanz,Desconocido,"['All Saints', 'The Shark Net', 'It Stains the Sands Red', 'Fixing a Hole']",['Actor'],1 nomination,--
+100,Sue Gardner,Desconocido,"[""We've Got Johnny""]",['Actress'],Desconocido,--
+101,Alyson Ridlon,Desconocido,"[""We've Got Johnny""]",['Actress'],Desconocido,--
+102,Annemarie Beede,Desconocido,['Doppelgangster'],['Actress'],Desconocido,--
+103,Gordon Bohn,Desconocido,['Doppelgangster'],['Actor'],Desconocido,--
+104,Ned Boudreaux,Desconocido,['Doppelgangster'],['Actor'],Desconocido,--
+105,Liam Fitzpatrick,Desconocido,"['Mars: Tabris', 'Doppelgangster']","['Actor', 'Visual Effects']",Desconocido,--
+106,Irene Hodges,Desconocido,['Doppelgangster'],['Actress'],Desconocido,--
+107,John Hodges,Desconocido,['Doppelgangster'],['Actor'],Desconocido,--
+108,Michael Horton,Desconocido,['Doppelgangster'],['Actor'],Desconocido,--
+109,Edward Hursey,Desconocido,['Doppelgangster'],['Actor'],Desconocido,--
+110,Katie Hursey,Desconocido,['Doppelgangster'],['Actress'],Desconocido,--
+111,Michael Mueller,Desconocido,"['Serious and Organised', 'Doppelgangster']",['Actor'],Desconocido,--
+112,Bill,Desconocido,['Not Quite Cricket'],[],Desconocido,--
+113,Lachlan Bosi,Desconocido,['Not Quite Cricket'],['Actor'],Desconocido,--
+114,Alex Gibson-Giorgio,Desconocido,"['One Day', 'Not Quite Cricket', 'Development Hell']",['Actor'],Desconocido,--
+115,Deborah Piper,Desconocido,"['The Black Balloon', 'Love My Way', 'Sons and Daughters', 'Home and Away']",['Actress'],Desconocido,--
+116,Mary-Anne Halpin,Desconocido,"['Gene-X', 'Coffee', 'Get Free', 'The Young and the Restless']","['Actress', 'Production Manager', 'Additional Crew']",Desconocido,--
+117,Jenny Cross,Desconocido,"[""Potatoes: A Layman's Guide""]",['Actress'],Desconocido,--
+118,Geeta Iyer,Desconocido,"[""Potatoes: A Layman's Guide""]",['Actress'],Desconocido,--
+119,Helena Smartt,Desconocido,"[""Potatoes: A Layman's Guide""]",['Actress'],Desconocido,--
+120,Stephanie Silverman,Desconocido,"['Toolbox Murders', 'Rain Without Thunder', 'After Sex', 'The Bridge']",['Actress'],Desconocido,--
+121,Mary Fanto,Desconocido,['Influence'],['Actress'],Desconocido,--
+122,Mitchell Roche,1977,"['The Invention of Lying', 'Lucky Stiff', 'Intergalactic Idol', ""The Solo's""]","['Actor', 'Writer', 'Camera and Electrical Department']",1 win,--
+123,Jenny Mollen,1979,"['Kidnapping Caitlynn', ""My Best Friend's Girl"", 'Crazy, Stupid, Love.', 'Crash']","['Actress', 'Writer', 'Producer']",1 win,--
+124,Taylor Johns,Desconocido,"['Influence', 'Independent Lens', 'From Chameleons to Chocolate']",['Actor'],Desconocido,--
+125,ErinRose Widner,Desconocido,"['Meeple People', ""Grey's Anatomy"", 'The One I Wrote for You', 'The Women of Wall Street']","['Producer', 'Writer', 'Actress']",4 wins & 4 nominations,--
+126,Jayme Jensen,Desconocido,"['Takers', 'Meet Dave', 'The 40-Year-Old Virgin', 'The Princess Diaries 2: Royal Engagement']","['Stunts', 'Actress']",Desconocido,--
+127,Erin Leigh Price,Desconocido,"['Buffy the Vampire Slayer', 'The Singing Forest', 'Farm Sluts', 'The Leftovers']",['Actress'],Desconocido,--
+128,Katie Krieder,Desconocido,['Influence'],['Actress'],Desconocido,--
+129,Alisha Miles,Desconocido,"[""The Creator's Game"", 'Bram and Alice', 'Influence', 'Promised Land']",['Actress'],Desconocido,--
+130,Lena Armstrong,Desconocido,"['Law & Order', 'Kink, Inc.', 'Keep Your Nose Clean', 'Stuart Bliss']","['Actress', 'Producer', 'Writer']",Desconocido,--
+131,Mike Berg,Desconocido,"[""Lightin' Up!""]",['Actor'],Desconocido,--
+132,Wendy Clifford,Desconocido,"['8 Heads in a Duffel Bag', 'Buffy the Vampire Slayer', '911 Can I Shoot Him', 'Tusks']","['Actress', 'Producer']",Desconocido,--
+133,Chris Dardozzi,Desconocido,"[""Lightin' Up!""]",['Music Department'],Desconocido,--
+134,Ben Eaglin,Desconocido,"['Killer by Nature', 'The Erotic Samurai', 'Mitzvah Communion', 'Lost Voyage']","['Actor', 'Sound Department', 'Location Management']",Desconocido,--
+135,Tymothi Howard,Desconocido,"[""Lightin' Up!""]",['Actor'],Desconocido,--
+136,Lisa Marie,Desconocido,"[""Lightin' Up!""]",['Actress'],Desconocido,--
+137,Tacha Moore,Desconocido,"[""Lightin' Up!""]",['Actress'],Desconocido,--
+138,Sam Narvell,Desconocido,"[""The Solo's"", 'Intergalactic Idol', 'Vageniuses', 'The WiseGuys']","['Actor', 'Additional Crew']",Desconocido,--
+139,Brad Newman,Desconocido,"[""Lightin' Up!""]",['Actor'],Desconocido,--
+140,Jacob Ewing,Desconocido,"['Penny Antics', 'Access Gorywood']","['Actor', 'Cinematographer']",Desconocido,--
+141,Joshua Ewing,Desconocido,"['Access Gorywood', 'Penny Antics']",['Actor'],Desconocido,--
+142,Hannah Judd,Desconocido,"['The Hatchet Man of Wehr Road', 'Access Gorywood', 'Math Registration Massacre', 'MMFJ Community Unity March 1998']","['Actress', 'Producer']",Desconocido,--
+143,Lee Ann Judd,Desconocido,['Access Gorywood'],['Actress'],Desconocido,--
+144,MyKayla Judd,Desconocido,"['Access Gorywood', 'Penny Antics']",['Actress'],Desconocido,--
+145,Adam Bobrow,Desconocido,"['The Mullets', 'Marvel: Ultimate Alliance 2', 'Saints Row', 'Code Geass']","['Actor', 'Additional Crew']",Desconocido,--
+146,David Neiman,Desconocido,"['Reality Boom', 'The Class: From Actor to Icon', 'Alibi']","['Actor', 'Director', 'Writer']",Desconocido,--
+147,Tom Vick,Desconocido,"['Dear John', 'Jarhead', 'Net Worth', 'Angel Camouflaged']","['Actor', 'Additional Crew']",Desconocido,--
+148,Pete Hartman,Desconocido,"[""The World's Most Paranoid Man""]",['Actor'],Desconocido,--
+149,Evil Tape Rewinders,Desconocido,"[""The World's Most Paranoid Man""]",[],Desconocido,--
+150,J. Budro Partida,Desconocido,"['Bloody & Bruised: The Untold Story of the Back Room', 'Sunset at Dry Creek', 'In the Trench: Haunted', 'Bewere']","['Director', 'Editor', 'Producer']",5 wins & 6 nominations,--
+151,Gastón Borgna,Desconocido,['Postre de domingo'],['Actor'],Desconocido,--
+152,Alejandra Frías,Desconocido,"['Postre de domingo', 'Sinestesia']",['Actress'],Desconocido,--
+153,Daniel Armstrong,Desconocido,"['SheBorg', 'From Parts Unknown', 'Nova Star', 'MurderDrome']","['Director', 'Writer', 'Producer']",1 win,--
+154,Bobby Bright,Desconocido,"['Queen of the Damned', 'Blue Heelers', 'Only the Brave', 'Homicide']","['Actor', 'Soundtrack']",Desconocido,--
+155,Victor Kaufold,Desconocido,"['Stronger', 'Bridesburg', 'The Affair', 'Dog Day Afternoons']","['Additional Crew', 'Writer', 'Actor']",Desconocido,--
+156,Mike Vernazza,Desconocido,"[""When Everything's Gone"", 'Nomad', 'Episode 50', 'Saint Michael of the City']","['Sound Department', 'Editor', 'Cinematographer']",Desconocido,--
+157,Matt Regney,Desconocido,"['The Level', 'Rise of the Dead', 'The Competitive', 'The Dan Ho Show']","['Actor', 'Producer', 'Sound Department']",Desconocido,--
+158,Lisa Erickson,Desconocido,"['Celebrity Sex Tape', 'The Competitive']",['Actress'],Desconocido,--
+159,Ewa Boryczko,Desconocido,"['The Recruited', 'Misconception']",['Actress'],Desconocido,--
+160,Nathan Lee,1982,"['Intuitions', 'Cage Fight', 'The Todd Akin Apologies', 'Andromeda']","['Actor', 'Stunts', 'Additional Crew']",Desconocido,--
+161,Ed Massee,Desconocido,['Misconception'],['Actor'],Desconocido,--
+162,Wayne Schaible,Desconocido,['Misconception'],['Actor'],Desconocido,--
+163,Richard Samuels,Desconocido,"['Stage 5', 'Southern Justice', 'The American Gandhi', 'Pointe Blank']","['Cinematographer', 'Camera and Electrical Department', 'Director']",Desconocido,--
+164,David Pinsof,Desconocido,"[""The Boy I'm Going to Marry""]",['Actor'],Desconocido,--
+165,David Blum,Desconocido,"['Fallout', ""The Boy I'm Going to Marry""]",['Actor'],Desconocido,--
+166,Liana Herzig,Desconocido,"[""City of Angels: The Mayor's Decree..."", ""The Boy I'm Going to Marry""]",['Actress'],Desconocido,--
+167,Joe Davies,Desconocido,['Montgomey: A Life in the Tack'],['Actor'],Desconocido,--
+168,Serena Scott Thomas,1961,"['Inherent Vice', 'The World Is Not Enough', 'Hostage', 'Buffy the Vampire Slayer']","['Actress', 'Producer']",1 win,--
+169,Tom Vullo,Desconocido,"['Good Cinema', ""Captain Cornelius Cartoon's Cartoon Lagoon"", 'Imminent']","['Actor', 'Writer']",Desconocido,--
+170,Jonathan Breck,1965,"['Jeepers Creepers', 'Spy Kids 4: All the Time in the World', 'Jeepers Creepers 2', 'Everybody Wants Some!!']","['Actor', 'Producer']",1 win,--
+171,Johanna Cypis,Desconocido,"['Man in Striped Pajamas', 'Double Take', 'The Socratic Method', 'Rock My Religion']","['Actress', 'Director', 'Writer']",Desconocido,--
+172,Jayne Amelia Larson,Desconocido,"['Gilmore Girls', 'Resilience', 'Callback', 'Illusion']","['Actress', 'Producer', 'Script and Continuity Department']",Desconocido,--
+173,Mitch Brian,1961,"['The Last Voyage of the Demeter', 'Viper', 'Transformations', 'Batman: The Animated Series']","['Writer', 'Director', 'Producer']",Desconocido,--
+174,Gena Case,Desconocido,['Killing Michael Bay'],['Actress'],Desconocido,--
+175,John Humphrey,Desconocido,"['Killing Michael Bay', 'Farewell to Harry']","['Actor', 'Additional Crew']",Desconocido,--
+176,John McGrath,Desconocido,"['The Evil Inside', 'Rest', 'Killing Michael Bay']","['Writer', 'Director', 'Actor']",Desconocido,--
+177,Todd Norris,1969,"['Nighty Night', 'Candy Apple Red', 'The Wonderful Way-Ahead Machine', 'Call Me Snake']","['Cinematographer', 'Editor', 'Camera and Electrical Department']",Desconocido,--
+178,Jen Walton,Desconocido,"['The Last One', 'Reaper Reborn', 'Killing Michael Bay', 'Unmasking Monsters Below']",['Actress'],Desconocido,--
+179,Aris Gounaris,Desconocido,"['The Coffee Connection', 'The Hard Word', 'The Bank', 'Head On']","['Actor', 'Writer', 'Camera and Electrical Department']",Desconocido,--
+180,Angela Twigg,Desconocido,"['Dead End', 'Wentworth', 'Medivac', 'Ladykiller']",['Actress'],Desconocido,--
+181,Simon King,Desconocido,"['The Last Supper', 'Noise', 'Roy Hollsdotter Live', 'Paradise Found']","['Actor', 'Producer', 'Transportation Department']",Desconocido,--
+182,Jonathan Leahey,Desconocido,['Rhonda and Nigel'],['Actor'],Desconocido,--
+183,Greg Williams,Desconocido,"['Vitalogy', 'The Little Woman', 'In Your Dreams', 'Last Stop']","['Director', 'Actor', 'Writer']",5 wins & 1 nomination,--
+184,John King,Desconocido,"['Penny', 'Ingestion', 'Darkfall Resurrection', 'Cell/Phone']","['Actor', 'Director', 'Writer']",1 win,--
+185,Steve Rodowsky,Desconocido,"['Politis', 'Rush', 'Rhonda and Nigel', 'The Delivery']","['Actor', 'Producer']",Desconocido,--
+186,Yoshikane Akasaka,Desconocido,['Penalty Salmon'],['Actor'],Desconocido,--
+187,Futoshi Horita,Desconocido,['Penalty Salmon'],['Actor'],Desconocido,--
+188,Ikeru Jojima,Desconocido,"['Picnic 1', 'Penalty Salmon']",['Actor'],Desconocido,--
+189,Takahito Suzuki,Desconocido,"['Radiation House', 'Penalty Salmon', 'Angel of Darkness 3: Live Action']",['Actor'],Desconocido,--
+190,Takanori Tosaka,Desconocido,['Penalty Salmon'],['Actor'],Desconocido,--
+191,Vince Duvall,Desconocido,"['Yellowstone', 'CSI: Crime Scene Investigation', 'The Rookie', 'Winning Time: The Rise of the Lakers Dynasty']","['Actor', 'Writer', 'Producer']",Desconocido,--
+192,Laura Swisher,Desconocido,"['Coxman: The Series', 'Tabatha Takes Over', 'Living with Fran', 'Totally Biased with W. Kamau Bell']","['Producer', 'Additional Crew', 'Actress']",Desconocido,--
+193,Arantza Alonso,Desconocido,"['Ilusiones', 'Pelonas', 'El puesto de los sueños']","['Actress', 'Additional Crew']",Desconocido,--
+194,Juan Beiro,Desconocido,"['Vainilla', 'Helsinki', 'Las Vegas', 'Entre tierras']","['Writer', 'Director', 'Editor']",1 win & 2 nominations,--
+195,Laura López Paniagua,Desconocido,['Ilusiones'],['Actress'],Desconocido,--
+196,Clara Martínez-Lázaro,Desconocido,"['Mirabilis', 'Una casa frente al mar', 'Growing Up', 'Pijamas Espaciales']","['Writer', 'Director', 'Producer']",Desconocido,--
+197,Fernando Nuñez,Desconocido,"['Perder el tiempo', 'Asesinato en la villa', 'El mueble de las fotos', 'Ilusiones']","['Actor', 'Make-Up Department', 'Additional Crew']",Desconocido,--
+198,Lauren Fox,1977,"['Pi', 'We Need to Talk About Kevin', 'In & Out', 'New Amsterdam']",['Actress'],Desconocido,--
+199,Sarah Louise Lilley,Desconocido,"['Zooey', 'Raising the Bar', 'The Blacklist', 'Emergence']","['Actress', 'Producer', 'Writer']",Desconocido,--
+200,Steven Ogg,1970,"['Grand Theft Auto V', 'The Walking Dead', 'He Never Died', 'Westworld']","['Actor', 'Additional Crew', 'Writer']",1 win & 4 nominations total,--
+201,Rohan Quine,Desconocido,"['Inherit the Witch', 'Zoolander', 'Doctor Theatre', 'Oz']","['Actor', 'Producer', 'Writer']",Desconocido,--
+202,Delores Carmody,Desconocido,['Gonnabes'],['Actor'],Desconocido,--
+203,Gary Hetzler,Desconocido,"['Lockout', 'The Last Days on Mars', 'Frank', 'Fair City']","['Actor', 'Additional Crew', 'Writer']",Desconocido,--
+204,Shirley McCarthy,Desconocido,['Gonnabes'],['Actor'],Desconocido,--
+205,John Morgan,Desconocido,['Gonnabes'],['Actor'],Desconocido,--
+206,Brian Unger,30,"[""It's Always Sunny in Philadelphia"", 'Yellowstone', 'How the States Got Their Shapes', 'The Daily Show']","['Actor', 'Producer', 'Additional Crew']",Desconocido,--
+207,Jamie Greenberg,Desconocido,"['Pillowfighter', 'Lip Service', ""Future '38"", 'Stags']","['Writer', 'Director', 'Actor']",2 wins & 2 nominations,--
+208,Stephen Lynch,1971,"['The Ten', 'The Survivalist', 'Pillowfighter', 'An Evening with Stephen Lynch']","['Writer', 'Actor', 'Soundtrack']",Desconocido,--
+209,Michelle Maryk,Desconocido,"['Snowden', 'Are We There Yet?', 'Pillowfighter', '13th Child']","['Actress', 'Additional Crew']",Desconocido,--
+210,Andrés du Bouchet,Desconocido,"[""Late Night with Conan O'Brien"", 'Conan', ""The Tonight Show with Conan O'Brien"", ""I'll Believe You""]","['Writer', 'Actor', 'Producer']",1 win & 9 nominations total,--
+211,Joey McIntyre,1972,"[""New Year's Eve"", 'The Heat', 'The Hotwives of Orlando', ""Tony & Tina's Wedding""]","['Actor', 'Writer', 'Producer']",1 nomination,--
+212,Charles Ezell,Desconocido,"['Pillowfighter', 'Last Call', 'Trash Humpers', 'The Minor Accomplishments of Jackie Woodman']","['Actor', 'Music Department', 'Additional Crew']",Desconocido,--
+213,Liam Beardslee,Desconocido,['Pillowfighter'],['Actor'],Desconocido,--
+214,Jonny Fido,1968,"['After.Life', 'Pillowfighter', 'The Path', 'Two If by Sea']","['Actor', 'Editor', 'Production Designer']",Desconocido,--
+215,Kenneth Braziel,Desconocido,['Objects'],['Actor'],Desconocido,--
+216,Carrie Gravenson,Desconocido,"['The Candy Flip', 'American Bomber', 'American Bomber: The John William Hidell Story', 'The Mel and El Show']","['Actress', 'Writer']",Desconocido,--
+217,Tamara Tackett,Desconocido,"['Objects', 'Extreme Catholicism', 'RoTel', 'Gynecology by Candlelight']",['Actress'],Desconocido,--
+218,Cinzia Gagliardi,Desconocido,['Caffè per due'],['Actress'],1 nomination,--
+219,Alessandro Riccio,Desconocido,"['Volontà', 'Quel genio del mio amico', 'La ballata del sacco di Prato', 'Caffè per due']","['Actor', 'Director', 'Writer']",Desconocido,--
+220,Chris Adamson,Desconocido,"['Comics', 'Melissa', 'Soundstage', 'Pissboy']","['Actor', 'Production Manager']",Desconocido,--
+221,Clare Adamson,Desconocido,['Pissboy'],['Actress'],Desconocido,--
+222,Paul Brennan,Desconocido,"['Remington Steele', 'Hennessy', 'The Star Chamber', 'Hercules: The Legendary Journeys']",['Actor'],Desconocido,--
+223,Andrew Dolan,Desconocido,"['Blue Bloods', 'House of Cards', 'The Blacklist', 'The Good Cop']","['Actor', 'Writer', 'Producer']",Desconocido,--
+224,Robert Ado,Desconocido,['The Pizza Tapes'],['Actor'],Desconocido,--
+225,William DeMeo,1971,"['Gravesend', 'Back in the Day', 'Gotti', 'First Kill']","['Actor', 'Writer', 'Director']",Desconocido,--
+226,Joe Iacona,Desconocido,"['The Tournament', 'Caged', 'The Sopranos', 'Dadetown']",['Actor'],Desconocido,--
+227,Michael Kelber,1967,"['Bricktown', 'Balanced', 'HOA', 'Black Dragon Canyon']","['Actor', 'Writer', 'Director']",Desconocido,--
+228,Vic Martino,Desconocido,"[""Eve's Preyer"", 'Keep Calm and Carry On', 'Grave Danger', 'Wonderguy']",['Actor'],Desconocido,--
+229,Michael Mazzeo,Desconocido,"['Gravesend', 'Billions', 'Legacies', 'Law & Order']","['Actor', 'Producer']",Desconocido,--
+230,George Pogatsia,Desconocido,"['The Sopranos', 'Law & Order', 'Family on Board', 'Manhattan Night']","['Actor', 'Producer', 'Writer']",Desconocido,--
+231,Jim Tooey,Desconocido,"['The Producers', 'Running Scared', 'Gardener of Eden', 'Spud']","['Actor', 'Producer']",Desconocido,--
+232,Frankie Como,1957,"['Halloween 5: The Revenge of Michael Myers', 'Lost & Found', 'That Marino Thing', 'Dark Tales']","['Actor', 'Cinematographer', 'Director']",Desconocido,--
+233,Justin Connor,1972,"['The Golden Age', 'Hollywood Safari', 'Resurrection Mary', 'Angel']","['Actor', 'Director', 'Producer']",Desconocido,--
+234,Jude Narita,Desconocido,"['The Nisei Farmer', 'Liberty & Bash', 'Hunger', 'Slam Bam']","['Actress', 'Producer', 'Additional Crew']",1 win,--
+235,Johnny Domingo,Desconocido,"['History Rangers', 'Downsizing']",['Actor'],Desconocido,--
+236,Lisa Gallo,Desconocido,['Downsizing'],['Actress'],Desconocido,--
+237,Bob Heath,Desconocido,"['Jimmy Ritz', 'Nancy Drew: Stay Tuned for Danger', 'Downsizing', 'Nancy Drew: The Final Scene']",['Actor'],Desconocido,--
+238,Lauri Morrison,1969,"['Swamper', 'Be Somebody', 'Downsizing']","['Actress', 'Production Designer']",Desconocido,--
+239,Parsons Scooter,Desconocido,"['Downsizing', 'The Angel']",['Actor'],Desconocido,--
+240,Maria Wardian,Desconocido,"['Tell Me Who', 'Downsizing', 'Escaping Evil: My Life in a Cult', 'Evil-in-Law']","['Editorial Department', 'Editor', 'Production Manager']",Desconocido,--
+241,Darrell Wasson,Desconocido,['Downsizing'],['Actor'],Desconocido,--
+242,Pedro Paulo Rangel,Desconocido,"['Cego e Amigo Gedeão à Beira da Estrada', 'O Coronel e o Lobisomem', 'The Aspones', 'The Thorn and the Rose']",['Actor'],1 win & 3 nominations,--
+243,Marcelo Escorel,1960,"['Elite Squad', 'The Big Catch', 'Capital Sin', 'Samson and Delilah']",['Actor'],1 nomination,--
+244,Flávio São Thiago,Desconocido,"['Fulaninha', 'O Jogo da Vida e da Morte', 'Four Days in September', 'Tensão no Rio']","['Actor', 'Writer']",1 win,--
+245,Táta Jubé,Desconocido,"['Tieta', 'Vaidade', 'Cego e Amigo Gedeão à Beira da Estrada']",['Actress'],Desconocido,--
+246,Carlito Marchon,Desconocido,['Cego e Amigo Gedeão à Beira da Estrada'],['Actor'],Desconocido,--
+247,Edmílson Santini,Desconocido,"['Reaching for the Moon', 'Bela Noite Para Voar', 'Cute, But Ordinary', 'A Very Nutty Boy']",['Actor'],Desconocido,--
+248,Eric Atallah,Desconocido,['An Epidemic of Masturbatory Proportions'],['Actor'],Desconocido,--
+249,David Colley,Desconocido,"['How My Dad Killed Dracula', ""As If You're Dead"", ""Daniel's Spark"", 'An Epidemic of Masturbatory Proportions']","['Actor', 'Producer']",Desconocido,--
+250,Kassie Pinegar,1995,"['Elizabethtown', 'An Epidemic of Masturbatory Proportions', 'Like a Brother']",['Actress'],Desconocido,--
+251,Kimberly Stanphill,9,"['The Last Bid', 'The O.C.', 'The Last Ride', 'Beastmaster III: The Eye of Braxus']","['Actress', 'Casting Department']",Desconocido,--
+252,Trayne Thomas,Desconocido,"['Perversions of Science', ""The Sky's on Fire"", 'The Fantasticks', 'Wildly Available']",['Actor'],Desconocido,--
+253,Tina Woodhull,Desconocido,"['Blackout', 'Intercourse with a Vampire', 'An Epidemic of Masturbatory Proportions', 'Shank']","['Additional Crew', 'Actress']",Desconocido,--
+254,Antonio De Matteo,1978,"[""Ocean's Twelve"", 'Medici', 'Mia', 'Leonardo']",['Actor'],Desconocido,--
+255,Chiara Pazzaglia,Desconocido,"['La Chimera', 'Inatteso', 'Superluna', ""Don't Waste Your Time, Johnny!""]","['Actress', 'Writer', 'Second Unit Director or Assistant Director']",Desconocido,--
+256,Dino Santoro,1978,"['Tempus Fugit', 'Interno 8', 'La vita nuda', 'Il più bel giorno della mia vita']","['Actor', 'Director', 'Writer']",Desconocido,--
+257,Craig Carlisle,Desconocido,"['Pete the Cat', 'Welcome to the Wayne', 'Arthur']","['Writer', 'Music Department', 'Additional Crew']",1 win & 2 nominations,--
+258,Evelina Van Norden,Desconocido,"[""'Twas""]",['Actress'],Desconocido,--
+259,Adam Colton,Desconocido,"['In Your Dreams', 'A Tale of Two Plushies']","['Actor', 'Cinematographer']",Desconocido,--
+260,David Cramton,Desconocido,"['Buzzard Hollow Beef', 'Tammytown', 'The Fred Effect', 'Mondo Scooterama']","['Cinematographer', 'Camera and Electrical Department', 'Producer']",1 win,--
+261,Devon Divine,Desconocido,['A Tale of Two Plushies'],['Actress'],Desconocido,--
+262,Charles Moore,Desconocido,['A Tale of Two Plushies'],['Actor'],Desconocido,--
+263,Ben Robertson,Desconocido,['A Tale of Two Plushies'],['Actor'],Desconocido,--
+264,Covahgin van Dyk,Desconocido,['A Tale of Two Plushies'],['Actor'],Desconocido,--
+265,Cindy Wonderful,Desconocido,"['Home Remedy', 'A Tale of Two Plushies', 'Toi et Moi', 'And You Belong']",['Actress'],Desconocido,--
+266,John Walker,Desconocido,"['The Electric Heartbreaker', 'Nether Regions: To Err', 'Popsuckette Theatre', 'Colour Blind']","['Actor', 'Director', 'Writer']",Desconocido,--
+267,Chris Garrison,1972,"['Deadly Squids from Beyond Saturn', 'The Electric Heartbreaker', 'Cartoon Sushi', 'Nether Regions: To Err']","['Animation Department', 'Actor', 'Writer']",Desconocido,--
+268,John Wright Jr.,Desconocido,"['The Last Exorcism', 'Hell of a Job', 'The Organist', 'Waiting Room']",['Actor'],Desconocido,--
+269,Frank Thompson,Desconocido,['Nether Regions: To Err'],['Actor'],Desconocido,--
+270,Michael Leslie,Desconocido,"[""Alice's Misadventures in Wonderland"", 'Nether Regions: To Err', 'Identity Crisis']",['Actor'],Desconocido,--
+271,Chris Franck,Desconocido,"['The Electric Heartbreaker', 'Nether Regions: To Err']",['Actor'],Desconocido,--
+272,Donna Littlepage,Desconocido,"['Muckfuppet', 'Nether Regions: To Err']",['Actress'],Desconocido,--
+273,Ben Burford,Desconocido,"['Bindlestiffs', 'Funemployment', 'Mississippi Masala', 'Nether Regions: To Err']","['Actor', 'Producer', 'Additional Crew']",Desconocido,--
+274,Shane Elliott,Desconocido,[],[],Desconocido,--
+275,Amy Garrison,Desconocido,"['What Next?', 'The Christmas Party', 'Scooter Head']",['Actress'],Desconocido,--
+276,Ted Simon,Desconocido,"['What Next?', 'The Christmas Party', 'Scooter Head']","['Director', 'Actor', 'Writer']",Desconocido,--
+277,Matthew Spencer,1977,"['The Orville', 'Cougar Town', ""America's Most Wanted: America Fights Back"", 'Desperate Housewives']","['Actor', 'Additional Crew', 'Executive']",Desconocido,--
+278,Lee Beltzer,Desconocido,['Fritz'],['Actor'],Desconocido,--
+279,Carol T. Biaggi,Desconocido,"['Porcelain God', 'Choosing Love, Judging Love', 'Fritz', 'Chez Risqué']",['Actress'],Desconocido,--
+280,Rich Delia,Desconocido,"['Game Night', 'Dallas Buyers Club', 'The Flash', 'Teenage Mutant Ninja Turtles: Mutant Mayhem']","['Casting Director', 'Casting Department', 'Actor']",1 win & 15 nominations total,--
+281,Bruce Ross,Desconocido,"['The Writer', 'Bring Him Back Dead', 'Game Time', 'The Latent']","['Actor', 'Additional Crew']",Desconocido,--
+282,Jody Ammerman,Desconocido,"['Generation Why?', 'Hairy']",['Actress'],Desconocido,--
+283,Chip Bent,Desconocido,"['Nine Dead', ""McCartney's Genes"", ""CU@Ed's"", 'Satin']","['Actor', 'Producer']",Desconocido,--
+284,Andrea Borgatello,Desconocido,['Hairy'],['Actress'],Desconocido,--
+285,Stacey Bunch,Desconocido,"['Pay It Forward', 'The Thing About My Folks', 'Hairy', 'Lovebites']","['Additional Crew', 'Casting Director', 'Actress']",Desconocido,--
+286,Harris Fellman,1968,"['Legs to Stand On', 'Golfballs!', 'Tha Eastsidaz', 'Charmed Life']","['Actor', 'Producer']",Desconocido,--
+287,Pat Fraley,1949,"['Princess Mononoke', 'Teenage Mutant Ninja Turtles', 'Teenage Mutant Ninja Turtles', 'I Am Legend']","['Actor', 'Additional Crew', 'Soundtrack']",2 wins,--
+288,Allison Kramer,Desconocido,"['Brew', 'Gone', 'What Lies Between Us', ""Hook'd""]","['Actress', 'Director', 'Writer']",Desconocido,--
+289,Tracey Rooney,Desconocido,"['Hightown', 'Reacher', 'Office Uprising', 'Jimmy Kimmel Live!']","['Actress', 'Casting Director', 'Producer']",2 nominations total,--
+290,Gina Vecchioni,Desconocido,['Hairy'],['Actress'],Desconocido,--
+291,Rob Verdery,1974,"['Minority Report', 'War of the Worlds', 'Game Night', 'A.I. Artificial Intelligence']","['Transportation Department', 'Additional Crew', 'Production Manager']",Desconocido,--
+292,Seigi Ozeki,Desconocido,"['Yamada: Samurai of Ayothaya', 'Rak fang khiao', 'Khuu raet', 'Embrace']",['Actor'],Desconocido,--
+293,Carlão Energia,Desconocido,['La Esmeralda'],['Actor'],Desconocido,--
+294,Anselmo Figueiredo,Desconocido,['La Esmeralda'],['Actor'],Desconocido,--
+295,Carol Garcia,Desconocido,['La Esmeralda'],['Actress'],Desconocido,--
+296,André Mattos,1961,"['Elite Squad 2: The Enemy Within', 'Narcos', 'Pele: Birth of a Legend', '492: A Man Called Death']","['Actor', 'Writer', 'Producer']",4 wins & 2 nominations,--
+297,Erik Tranquelin,Desconocido,"['La Esmeralda', 'Camping Paradise']",['Actor'],Desconocido,--
+298,Cedric Bonin,Desconocido,['Veilleur de nuit'],['Actor'],Desconocido,--
+299,Silke Sixtynine,Desconocido,['Veilleur de nuit'],['Actor'],Desconocido,--
+300,Jenni Keenan-Green,Desconocido,"['Tetris', ""World's End"", 'Trust Me', 'Girl']",['Actress'],Desconocido,--
+301,Jon Joe Smith,Desconocido,['Guys & Dolls'],['Actor'],Desconocido,--
+302,Martijn Berndsen,1977,"[""Hulk Hogan's Micro Championship Wrestling"", 'Long Way Round', 'Mr. Bricks: A Heavy Metal Murder Musical', ""The Devil's Muse""]","['Actor', 'Producer', 'Director']",Desconocido,--
+303,Klaas Lageveen,Desconocido,"['Wereldkampioenschap Freestyle Roulette', 'The Chicken vs. the Egg', 'Hail Satan', 'Pygmalion']","['Writer', 'Visual Effects', 'Editor']",Desconocido,--
+304,Lillian Adams,Desconocido,"['The Jerk', 'Bruce Almighty', 'Private Benjamin', 'Little Nicky']",['Actress'],Desconocido,--
+305,Marla Brodsky,Desconocido,"['Primary Colors', 'Automatic', 'Farmer Wants a Wife', 'Extreme Makeover']","['Casting Department', 'Casting Director', 'Producer']",Desconocido,--
+306,James Nardini,Desconocido,"['Criminal Minds', 'The Tale of The Princess Kaguya', 'Cheers', 'Harley Davidson and the Marlboro Man']","['Actor', 'Additional Crew']",Desconocido,--
+307,Alex Cox,1954,"['Repo Man', 'Sid and Nancy', 'Searchers 2.0', 'The Oxford Murders']","['Actor', 'Director', 'Writer']",5 wins & 10 nominations,--
+308,Andrew Schofield,1962,"['Sid and Nancy', 'Hamlet', 'G.B.H.', 'Melissa']","['Actor', 'Soundtrack']",Desconocido,--
+309,Bobby Schofield,1993,"['Black Sea', ""Guy Ritchie's the Covenant"", 'Cherry', ""Don't Breathe 2""]",['Actor'],Desconocido,--
+310,Manolo Solo,1964,"[""Pan's Labyrinth"", 'Marshland', 'Biutiful', 'The Good Boss']","['Actor', 'Additional Crew', 'Composer']",28 wins & 23 nominations,--
+311,Jesús Ochoa,1959,"['Man on Fire', 'Quantum of Solace', 'Get the Gringo', 'Entre Pancho Villa y una mujer desnuda']","['Actor', 'Director', 'Writer']",4 wins & 5 nominations,--
+312,Osvaldo Benavides,1979,"[""Loli's luck"", 'Noche De Bodas', 'Lo que la vida me robó', 'SubHysteria']","['Actor', 'Writer', 'Producer']",1 win,--
+313,Emilio Cortés,Desconocido,"['Even the Rain', 'Tigers Are Not Afraid', 'El Club de los Idealistas', 'Somos.']",['Sound Department'],2 nominations,--
+314,Zoe Faithfull,Desconocido,['Jetpac Willy'],['Actress'],Desconocido,--
+315,Oliver Milburn,1973,"['The Descent', ""Assassin's Creed IV: Black Flag"", 'The Forsyte Saga', 'Wuthering Heights']","['Actor', 'Producer', 'Camera and Electrical Department']",Desconocido,--
+316,Tim Vine,1967,"['The Sketch Show', 'Fearmoth', 'Not Going Out', 'Kelsey Grammer Presents: The Sketch Show']","['Actor', 'Writer', 'Director']",Desconocido,--
+317,Rex Benton,Desconocido,"['Road Signs: The Movie', 'Waiting for Dopeman']",['Actor'],Desconocido,--
+318,Lindsay Marlow,Desconocido,['Waiting for Dopeman'],"['Actress', 'Production Manager']",Desconocido,--
+319,Kristofer Allen Rommel,Desconocido,"['Someday I Suppose', 'Wireface: In the Beginning...', 'Please Try Again', 'Wireface: The KNA TV-13 News Reports']","['Producer', 'Editor', 'Cinematographer']",Desconocido,--
+320,Tracy Ross,Desconocido,"['Road Signs: The Movie', 'Waiting for Dopeman']",['Actor'],Desconocido,--
+321,Chris Vaught,Desconocido,"['Road Signs: The Movie', 'Waiting for Dopeman']","['Actor', 'Additional Crew']",Desconocido,--
+322,Tyler Wallace,Desconocido,"['Recollections', 'Road Signs: The Movie', 'Waiting for Dopeman']","['Actor', 'Producer', 'Additional Crew']",Desconocido,--
+323,John Young,Desconocido,"['Road Signs: The Movie', 'Waiting for Dopeman']","['Actor', 'Camera and Electrical Department', 'Additional Crew']",Desconocido,--
+324,Joan Landino,Desconocido,"['Marshmallow World', 'Dove and Dragon Radio with host M.L.Ruscsak']",['Actor'],Desconocido,--
+325,Jeff McAlack,Desconocido,['Marshmallow World'],['Actor'],Desconocido,--
+326,Angela Nielsen,Desconocido,['The Antiques Toadshow'],['Actress'],Desconocido,--
+327,Thomas Buchholz,Desconocido,['The Antiques Toadshow'],['Actor'],Desconocido,--
+328,Jo Bates,Desconocido,['The Antiques Toadshow'],['Actor'],Desconocido,--
+329,Steve Cosmic,Desconocido,"['Bikini Babes Countdown', 'Stunt Baby, Baby Claire', 'A Sweater Girl Comedy Cold Read', 'Cow Talk, Part 1']","['Camera and Electrical Department', 'Director', 'Writer']",Desconocido,--
+330,Gabriella Kriss,Desconocido,"['Big Eyes', ""R.L. Stine's the Haunting Hour"", 'Cry Your Eyes Out', 'Cow Talk, Part 1']","['Stunts', 'Actress', 'Additional Crew']",Desconocido,--
+331,Jason Cobill,Desconocido,"['The Core', 'X2', 'Stay', 'Radio Free Wasteland']","['Visual Effects', 'Actor']",Desconocido,--
+332,Charles Gaulke,Desconocido,['Radio Free Wasteland'],"['Director', 'Actor', 'Writer']",Desconocido,--
+333,Sean Curran,Desconocido,"['The Metropolitan Opera HD Live', 'First Movement Form', 'Concert Channel Sessions', 'Mechanics of the Brain']","['Actor', 'Additional Crew']",Desconocido,--
+334,Mike DeQuattro,Desconocido,"['Children of Providence', 'Ode', 'First Movement Form']","['Composer', 'Actor']",Desconocido,--
+335,Gary Shore,Desconocido,"['Children of Providence', 'Ode', 'First Movement Form', 'Getting Out of Rhode Island']","['Producer', 'Director', 'Actor']",Desconocido,--
+336,Rogelio Medel,Desconocido,['Barbados'],['Actor'],Desconocido,--
+337,Marco Ortigoza,Desconocido,['Barbados'],['Actor'],Desconocido,--
+338,Mauro Rivera,Desconocido,"['Las Bravas F.C.', 'Tequila', 'Atrapadas en Familia', 'Operación Feliz Navidad']","['Editorial Department', 'Editor', 'Actor']",Desconocido,--
+339,Victor Vigoro,Desconocido,"['De pocas, pocas pulgas', 'Camila', 'La Güereja y algo más', 'Pobre niña rica']",['Actor'],Desconocido,--
+340,Juan Arbués,Desconocido,"['La guerra de las patatas', 'Memorias de mi año sabático', 'Las mujeres de Álex', 'La pócima del doctor Chang']",['Actor'],Desconocido,--
+341,Carol Brest,Desconocido,"['Dr. Sí', 'Las mujeres de Álex', 'Duendes en el jardín']","['Actress', 'Costume and Wardrobe Department', 'Make-Up Department']",Desconocido,--
+342,Héctor Escandell,1978,"['No Vida', 'Una noche en la Guarida del Ángel: Encuentro en Ibiza', 'Los Crímenes del Día de Todos los Santos', 'Incestum']","['Writer', 'Director', 'Producer']",Desconocido,--
+343,Mercedes Garijo,Desconocido,['Las mujeres de Álex'],['Actress'],Desconocido,--
+344,Adriana López,Desconocido,['Las mujeres de Álex'],['Actress'],Desconocido,--
+345,Cayetano Miró,Desconocido,"['Los Crímenes del Día de Todos los Santos', 'Una Noche en la Guarida del Ángel: El Atraco', 'Memorias de mi año sabático', 'Las mujeres de Álex']",['Actor'],Desconocido,--
+346,Miguel Torres,Desconocido,['Las mujeres de Álex'],['Actor'],Desconocido,--
+347,Neus Torres,Desconocido,"['Es Gegant des Vedrà i altres rondaies', 'Las mujeres de Álex', '125 años con Diario de Ibiza']",['Actress'],Desconocido,--
+348,Vicente Torres,Desconocido,"['La guerra de las patatas', 'Los Crímenes del Día de Todos los Santos', 'Dr. Sí', 'Los Crímenes del Día de Todos los Santos']","['Actor', 'Director', 'Editor']",Desconocido,--
+349,Clint Harp,Desconocido,"['Store Hours', 'Intervention', 'Tin Man']",['Actor'],Desconocido,--
+350,Michelle Barajas,Desconocido,['Store Hours'],['Actor'],Desconocido,--
+351,Dan Selick,Desconocido,['Store Hours'],['Actor'],Desconocido,--
+352,Catherine McLean,Desconocido,['Store Hours'],['Actor'],Desconocido,--
+353,Matt Stolhandske,Desconocido,['Store Hours'],['Actor'],Desconocido,--
+354,Shelley Bennett,1981,"['The Hollow', 'Behind the Veil', 'All My Children', 'Machine Head']","['Actress', 'Producer', 'Director']",Desconocido,--
+355,Christopher Colucci,Desconocido,['Boot and Rally'],['Actor'],Desconocido,--
+356,Joe Colucci,Desconocido,"['The Djinn', 'Hypochondriac', '5150', 'The Shortlist: House Sitters']","['Actor', 'Stunts']",Desconocido,--
+357,Joseph Colucci,Desconocido,"['Boot and Rally', 'CapeHouse']",['Actor'],Desconocido,--
+358,Joe Dileo,Desconocido,['Boot and Rally'],['Actor'],Desconocido,--
+359,Kathi Eidman,Desconocido,['Boot and Rally'],['Actor'],Desconocido,--
+360,Kathi Eidmann,Desconocido,['Boot and Rally'],['Actress'],Desconocido,--
+361,Kristy Holt,Desconocido,['Boot and Rally'],['Actor'],Desconocido,--
+362,Tom Lasky,Desconocido,['Boot and Rally'],['Actor'],Desconocido,--
+363,Erin Long,Desconocido,['We All Scream'],['Actress'],Desconocido,--
+364,Michael McIntyre,Desconocido,"['Pumpkin Morgue Paranormal Investigators: Colonial Dreads?', 'Reeding the Dead', 'Pumpkin Morgue Paranormal Investigators: The Lame Shall Enter First', 'Pumpkin Morgue Paranormal Investigators: A Nightmare on Bloodstreet']","['Actor', 'Producer']",Desconocido,--
+365,Jess Morgan,Desconocido,"['Allen', 'Plucked Daisy', 'We All Scream']","['Actor', 'Producer', 'Editor']",Desconocido,--
+366,Willard Chin,Desconocido,"['Nash Bridges', 'You Not Chinese', 'Unsolved Mysteries', 'Midnight Caller']",['Actor'],Desconocido,--
+367,Linda Chuan,Desconocido,"['Golden Gate', 'My Life As a Liar', 'The Theater of Martin Lim', 'Sucker Free City']",['Actress'],Desconocido,--
+368,Doreen Foo Croft,Desconocido,"['Sweet November', 'Patch Adams', 'Nash Bridges', 'Golden Gate']",['Actress'],Desconocido,--
+369,Kao Lee Thao,Desconocido,"['My Life As a Liar', 'Paper Words']","['Actor', 'Animation Department', 'Art Director']",Desconocido,--
+370,Sam Kim,Desconocido,"['Next', ""Paco's Suitcase Bomb"", 'Half Past Dead 2']","['Actor', 'Location Management', 'Producer']",Desconocido,--
+371,Rosa J. Colón,Desconocido,"['Edge of Darkness', 'R.I.P.D.', 'Surrogates', 'Knight and Day']","['Costume and Wardrobe Department', 'Costume Designer', 'Producer']",Desconocido,--
+372,Lawrence Laska Jr.,Desconocido,"['The Meek Shall Inherit', 'Graveyard Shift']","['Actor', 'Sound Department']",Desconocido,--
+373,Josef Nguyen,Desconocido,['The Meek Shall Inherit'],['Actor'],Desconocido,--
+374,Bernie O'Doherty,Desconocido,['The Meek Shall Inherit'],['Actor'],Desconocido,--
+375,Zack Rothbart,Desconocido,['The Meek Shall Inherit'],['Actor'],Desconocido,--
+376,Eric Stahl,Desconocido,"['La Rancherita', 'The Meek Shall Inherit']",['Actor'],Desconocido,--
+377,Rebecca Williams,Desconocido,['The Meek Shall Inherit'],['Actor'],Desconocido,--
+378,Alicyn Packard,27,"['Call of Duty: Modern Warfare II', 'Rugrats', 'The Tom and Jerry Show', 'Man with a Plan']","['Actress', 'Writer', 'Producer']",3 wins & 8 nominations,--
+379,Terry Hall,Desconocido,['Fishbowl Billy'],['Actor'],Desconocido,--
+380,Jeff Kent,Desconocido,"['Penny Land', 'Fishbowl Billy']",['Actor'],Desconocido,--
+381,Josh Olsen,1976,"['Northfork', 'Fishbowl Billy']",['Actor'],Desconocido,--
+382,Thom Whaley,Desconocido,['Fishbowl Billy'],['Actor'],Desconocido,--
+383,Elizabeta Djorevska,1961,"['Coriolanus', 'Underground', 'Karadjordje i pozoriste', 'Stizu dolari']",['Actress'],Desconocido,--
+384,Leonard Kocic,Desconocido,"['Misija: Leptir', 'Mac']",['Actor'],Desconocido,--
+385,Milenko Zablacanski,Desconocido,"['Groznica subotnje veceri', 'Mala skola zivota', 'Stizu dolari', 'Porodicno blago']","['Actor', 'Writer', 'Director']",Desconocido,--
+386,Norma Lana,Desconocido,"['The Wedding Dress', 'The Truth About Marriage']","['Actress', 'Writer', 'Producer']",Desconocido,--
+387,Lucy Avery Brooke,Desconocido,"['The Mirror Has Two Faces', 'Law & Order', 'The Wedding Dress', 'Earthly Possessions']",['Actress'],Desconocido,--
+388,Christopher Caiati,Desconocido,"['Stonewall', 'The Wedding Dress']","['Actor', 'Camera and Electrical Department']",Desconocido,--
+389,Anne Carney,Desconocido,"['Chaperone', 'Person of Interest', 'Daredevil', 'The Blacklist']","['Actress', 'Editorial Department']",1 win,--
+390,Ellen David,Desconocido,"['Law & Order', 'Preggers', 'Just Peck', 'The Dark Knight']",['Actress'],Desconocido,--
+391,Gail Dennison,Desconocido,"['Law & Order: Criminal Intent', 'The Wedding Dress']",['Actress'],Desconocido,--
+392,Michael Edwin,15,"['Ray Donovan', 'Stop', 'American Crime Story', 'NCIS']","['Actor', 'Producer']",1 win,--
+393,Mandy Fabian,Desconocido,"['Jess Plus None', ""Somebody's Mother"", 'Vicarious', 'The Young Hillary Diaries']","['Writer', 'Director', 'Actress']",4 wins & 2 nominations,--
+394,Jane Gennaro,Desconocido,"['Max Payne', 'Max Payne 3', 'A Bread Factory, Part Two', 'The Wedding Dress']",['Actress'],Desconocido,--
+395,Felicia Hendrick,Desconocido,['The Wedding Dress'],['Actress'],Desconocido,--
+396,Martin Trenaman,Desconocido,"['The Inbetweeners 2', 'The Inbetweeners', 'Not by the Book', 'Burnt']","['Writer', 'Additional Crew', 'Actor']",1 win,--
+397,Billy Trout,Desconocido,['Billy Trout: An American Heritage'],['Producer'],Desconocido,--
+398,Donna Boguslav,Desconocido,['Billy Trout: An American Heritage'],['Actress'],Desconocido,--
+399,Christian McDonald,Desconocido,"['Optimism', 'Aftermath', 'Billy Trout: An American Heritage']","['Writer', 'Director', 'Producer']",Desconocido,--
+400,Julio García,Desconocido,"['Cuando Pedro dejó a Alicia', 'Como borregos']","['Actor', 'Writer']",Desconocido,--
+401,Marta Díez,Desconocido,"['The Living NEET', 'Un paso adelante', 'El comisario', 'Cuando Pedro dejó a Alicia']",['Actress'],Desconocido,--
+402,Pedro Maestre,Desconocido,"['Guris Guiris', 'Hospital Central', 'Fuera del cuerpo', 'El club de los suicidas']","['Actor', 'Writer']",Desconocido,--
+403,Pedro Martín,Desconocido,"['Merry Christmas', 'Opportunity', 'Cuando Pedro dejó a Alicia', 'Campo de batalla']",['Actor'],Desconocido,--
+404,Natalia Narbón,Desconocido,"['El hombre desconocido', 'Cuando Pedro dejó a Alicia']",['Actress'],Desconocido,--
+405,Andrés del Cano,Desconocido,"['Lazaro: An Improvised Film', 'The Perfect Pot Roast', 'Dangerous Game', ""A Serial Killer's Guide to Life""]","['Editorial Department', 'Editor', 'Director']",Desconocido,--
+406,María Escobar,Desconocido,['Cuando Pedro dejó a Alicia'],['Actress'],Desconocido,--
+407,J. Enrique Sánchez,Desconocido,"['Photo', 'Uncharted', 'Berlín', 'Malaka']","['Second Unit Director or Assistant Director', 'Actor', 'Director']",5 nominations,--
+408,Ángela Villar,Desconocido,"['Diamond Flash', 'Urubú', '#Sequence', 'Otro verano']",['Actress'],Desconocido,--
+409,Ramón Pajares,Desconocido,['Cuando Pedro dejó a Alicia'],['Actor'],Desconocido,--
+410,Alain Buttigieg,Desconocido,"[""Le gâteau d'anniversaire"", 'Marie Pervenche']",['Actor'],Desconocido,--
+411,Christian Gazio,1954,"['Unleashed', 'Nikita', 'Now You See Me', 'The Big Blue']","['Art Department', 'Actor', 'Director']",Desconocido,--
+412,Francisco de Santiago,Desconocido,['Star Wars: Episodio Pi - Sithspotting'],['Actor'],Desconocido,--
+413,Álvaro Menéndez,Desconocido,['Star Wars: Episodio Pi - Sithspotting'],"['Actor', 'Visual Effects']",Desconocido,--
+414,Laura Colmenar,Desconocido,['Star Wars: Episodio Pi - Sithspotting'],"['Actress', 'Second Unit Director or Assistant Director', 'Costume and Wardrobe Department']",Desconocido,--
+415,Guillermo Colmenar,Desconocido,['Star Wars: Episodio Pi - Sithspotting'],['Actor'],Desconocido,--
+416,Emilio Colmenar,Desconocido,['Star Wars: Episodio Pi - Sithspotting'],"['Actor', 'Animation Department', 'Production Designer']",Desconocido,--
+417,Santiago Arévalo,Desconocido,"['Talk to Her', 'Star Wars: Episodio Pi - Sithspotting']","['Camera and Electrical Department', 'Actor', 'Second Unit Director or Assistant Director']",Desconocido,--
+418,Jesús Marugán,1973,"['Star Wars: Episodio Pi - Sithspotting', 'Bauta', 'Star Wars: Extintion', 'Common Wealth']","['Camera and Electrical Department', 'Actor', 'Visual Effects']",Desconocido,--
+419,Mariano Marugan,Desconocido,['Star Wars: Episodio Pi - Sithspotting'],['Actor'],Desconocido,--
+420,Iván Marugan,Desconocido,['Star Wars: Episodio Pi - Sithspotting'],"['Actor', 'Producer']",Desconocido,--
+421,Kim Denman,Desconocido,"['Blue Heelers', 'Living Color', 'Spring Rhapsody', 'Sugar Pine Falls']","['Actress', 'Casting Director']",Desconocido,--
+422,Steve Mouzakis,Desconocido,"['The Stranger', 'Clickbait', 'Prison Break', 'Where the Wild Things Are']","['Actor', 'Writer', 'Producer']",3 wins,--
+423,Kostas Bousbouras,Desconocido,['Spiral'],['Actor'],Desconocido,--
+424,Dimitris Zalahoris,Desconocido,"['Spiral', 'Stay Inside, the Web Series', 'Kathiste mesa']",['Actor'],Desconocido,--
+425,Giorgos Eleftheriadis,Desconocido,['Spiral'],['Actor'],Desconocido,--
+426,Asimina Spyropoulou,Desconocido,['Spiral'],['Actress'],Desconocido,--
+427,Justin Reinsilber,Desconocido,"['Central Park', 'Keep the Lights On', 'Supernatural']","['Actor', 'Producer', 'Writer']",1 win,--
+428,Diane DeNoble,1967,"['Stuart Little 2', 'Swimfan', 'Anomalies']","['Stunts', 'Actress']",Desconocido,--
+429,Pete Zaslow,Desconocido,"['Close Up', 'Anomalies']",['Actor'],Desconocido,--
+430,Mark Reay,Desconocido,"['Prodigal Son', 'Flasher', '30 Years to Life', 'Prelude']",['Actor'],Desconocido,--
+431,Jill Wisoff,Desconocido,"['Creating Karma', 'Welcome to the Dollhouse', 'Fear Anxiety Depression', 'Reality of a Dream']","['Actress', 'Composer', 'Writer']",2 wins,--
+432,Anthony Ravi Kissoon,Desconocido,['Anomalies'],['Actor'],Desconocido,--
+433,Paul Schkrutz,Desconocido,['Anomalies'],['Actor'],Desconocido,--
+434,Ed Hudak,Desconocido,['Anomalies'],['Actor'],Desconocido,--
+435,Joe Hudak,Desconocido,"['Anomalies', 'Permission to Speak Freely']",['Actor'],Desconocido,--
+436,Jesse Duperon,Desconocido,['Anomalies'],['Actress'],Desconocido,--
+437,Ryan Shields Johnston,Desconocido,"['Jurassic World', 'SPIT: The Story of a Caveman and a Chicken', 'Journey 2: The Mysterious Island', 'Cup']","['Actor', 'Cinematographer', 'Producer']",1 win,--
+438,Shelly Bilisoly,Desconocido,['Lactose Love'],['Actress'],Desconocido,--
+439,Mike Brodey,Desconocido,['Walt Brother Walt'],['Actor'],Desconocido,--
+440,Kelly Owens,Desconocido,"['The Killing of Kenneth Chamberlain', 'The Chi', 'A Chance in the World', 'Empire']","['Actress', 'Location Management']",Desconocido,--
+441,Bradford S. Stevens,Desconocido,"['LG and Lucky Are Friends', 'Chicago P.D.', 'First Fight', 'Flying Man']","['Producer', 'Writer', 'Director']",Desconocido,--
+442,Marcus Watson,Desconocido,"['We Woke', 'Walt Brother Walt', 'Dazzling Cool Cat Jones']","['Producer', 'Actor']",Desconocido,--
+443,Mark Winston,Desconocido,['Walt Brother Walt'],['Actor'],Desconocido,--
+444,Craig Knitt,Desconocido,"['HappyBoy', 'Promises', 'The End of the Road', 'Drip']","['Actor', 'Cinematographer', 'Editor']",Desconocido,--
+445,David Lowe,Desconocido,"['Midnight in Paris', 'The Man in the Iron Mask', 'One Fine Morning...', 'For the Ones We Loved']","['Actor', 'Composer', 'Music Department']",Desconocido,--
+446,Wilfred George Lowe,Desconocido,"['Peer Gynt', 'Pierre et le Loup']",['Actor'],Desconocido,--
+447,Nadege Morel,Desconocido,['Pierre et le Loup'],['Actor'],Desconocido,--
+448,Xavier Morel,Desconocido,['Pierre et le Loup'],['Actor'],Desconocido,--
+449,Adele Silmaridis,Desconocido,['Pierre et le Loup'],['Actress'],Desconocido,--
+450,Alex Harcourt-Smith,Desconocido,"['Murder in Mind', 'In a Day', 'Inbetweeners', 'The Man Who Liked to Wee Off Buildings']",['Actor'],Desconocido,--
+451,Anthony DaSilva,Desconocido,['The Man Who Liked to Wriggle in Alleys'],['Actor'],Desconocido,--
+452,Brett Berg,Desconocido,"['The Brave One', ""Meg's Song"", 'This Revolution', 'Multiple Sarcasms']","['Actor', 'Director', 'Writer']",Desconocido,--
+453,Karen Maharaja,Desconocido,['Kidnap'],['Actress'],Desconocido,--
+454,Marcus Forsberg,Desconocido,"[""She's an Animal""]",['Actor'],Desconocido,--
+455,Alexander Groth,Desconocido,"[""She's an Animal""]","['Actor', 'Editor']",Desconocido,--
+456,Niklas Grönberg,1984,"['Frostbitten', ""She's an Animal"", 'Att Återvända']","['Actor', 'Director', 'Writer']",Desconocido,--
+457,Frida Jakobsson,Desconocido,"[""She's an Animal""]",['Actor'],Desconocido,--
+458,Madelene Johansson,Desconocido,"[""She's an Animal""]",['Actress'],Desconocido,--
+459,Mattias Karvonen,Desconocido,"[""She's an Animal""]",['Actor'],Desconocido,--
+460,Jonas Pelli,Desconocido,"[""She's an Animal""]",['Actor'],Desconocido,--
+461,Jonas Zakrisson,Desconocido,"[""She's an Animal""]","['Director', 'Actor', 'Writer']",Desconocido,--
+462,Scott Major,1975,"['Neighbours', 'Line of Fire', 'Scams Incorporated', 'Blue Heelers']","['Actor', 'Director', 'Producer']",4 wins & 4 nominations,--
+463,Erik Thomson,1967,"['The Black Balloon', '800 Words', 'Somersault', 'All Saints']","['Actor', 'Producer', 'Soundtrack']",3 wins & 17 nominations,--
+464,Barry Shepherd,Desconocido,"['McLeans Money', 'The Holy Scoundrel', ""Mikey's Extreme Romance"", 'Wildside']","['Actor', 'Second Unit Director or Assistant Director', 'Editor']",Desconocido,--
+465,Salvatore Coco,1975,"['Underbelly', 'Heartbreak High', 'Bootmen', 'Water Rats']","['Actor', 'Soundtrack']",1 nomination,--
+466,Lara Cox,1978,"['Kangaroo Jack', 'The Makeover', 'Heartbreak High', 'Home and Away']",['Actress'],Desconocido,--
+467,Deni Hines,1970,"[""Miss Fisher's Murder Mysteries"", ""Jimmy and Gret Don't Do Sex"", ""Mao's Last Dancer"", 'The Wog Boy']","['Actress', 'Soundtrack']",1 nomination,--
+468,Zdenka Acin,Desconocido,"['The Jon Dore Television Show', 'G-Spot', 'Vannica', 'Nureyev']","['Actress', 'Editor']",Desconocido,--
+469,Muriel Kauffmann,Desconocido,"['The 4400', 'Vannica']",['Actress'],Desconocido,--
+470,Moishe Teichman,Desconocido,"['Supernatural', 'Fringe', 'They Dream', 'Delinquent']","['Actor', 'Producer', 'Writer']",1 win,--
+471,Nicolás Mladinic,1983,"['Mami te amo', 'Una parte de mi vida', 'Enséñame Otra Vez!', '¡Enséñame de nuevo!']","['Actor', 'Producer']",Desconocido,--
+472,Miguel Angel Guarda,Desconocido,"['Historias Breves VI', 'Bet Jal: Respira un día más', 'Navidad QL', 'Caribou']","['Camera and Electrical Department', 'Actor', 'Cinematographer']",Desconocido,--
+473,Ernesto Araya,Desconocido,"['Ángel Negro', 'Amargura', 'Rachmaninoff', 'Bomb!']","['Actor', 'Additional Crew', 'Cinematographer']",Desconocido,--
+474,Juan Olivares,Desconocido,"['Guardians of the Galaxy', 'The Secret in Their Eyes', 'Furious 7', 'Deadpool']","['Visual Effects', 'Actor', 'Producer']",1 nomination,--
+475,Esteban Rojas,1983,"['Insomnia', 'Post: La aventura completa', 'Strogonoff', 'Cichonga']","['Director', 'Editor', 'Actor']",1 win,--
+476,Magdalena Encina,Desconocido,['Enséñame Otra Vez!'],"['Actress', 'Producer']",Desconocido,--
+477,Camila Luchsinger,Desconocido,"['Enséñame Otra Vez!', 'Look París: Belleza 2010']","['Actress', 'Art Director']",Desconocido,--
+478,Nicolás Wellmann,Desconocido,"['Los 80', ""Las Vega's"", 'El Cordero', 'Peleles']","['Writer', 'Actor', 'Producer']",1 nomination,--
+479,Atomic Zagnut Adams,Desconocido,"['Clownvets', '¡Enséñame de nuevo!', 'La Experiencia Barriga']","['Camera and Electrical Department', 'Actor']",Desconocido,--
+480,Francisco Campos-Lopez,1986,"['I Did Her Wrong', 'Coterráneos', 'Rappahannock Girls', 'Coterráneos II: Una calentura, perdón... una aventura en Buenos Aires']","['Producer', 'Director', 'Writer']",1 win & 2 nominations,--
+481,Jonah Goldstein,Desconocido,"['The Time Machine: A Chad, Matt & Rob Interactive Adventure', 'Popstar: Never Stop Never Stopping', 'Punchline', 'How to Become an Internet Celebrity']","['Producer', 'Production Manager', 'Writer']",Desconocido,--
+482,Chester Tam,Desconocido,"['Scream', 'Take the 10', 'Hot Rod', 'Workaholics']","['Actor', 'Writer', 'Director']",Desconocido,--
+483,Kirk Anderson,Desconocido,['Clay'],['Actor'],Desconocido,--
+484,Mary Anne Bowman,Desconocido,['Clay'],['Actor'],Desconocido,--
+485,Dina Gardner,Desconocido,"[""Cain's Mark"", 'Titus', 'Clay', 'Titan Safety Systems']",['Actress'],Desconocido,--
+486,Daraka Larimore,Desconocido,['Clay'],['Actor'],Desconocido,--
+487,James C. Leary,1973,"['Waiting for Deading', 'Buffy the Vampire Slayer', 'Sleeper', 'Stunt C*cks']","['Actor', 'Writer', 'Producer']",2 wins,--
+488,Christian Stolte,1962,"['Chicago Fire', 'Law Abiding Citizen', 'Public Enemies']","['Actor', 'Soundtrack']",1 win,--
+489,Thierry Piétra,Desconocido,"['The Family', 'Maximilian', 'The Assault', 'The Philosopher']",['Actor'],Desconocido,--
+490,Jean-Michel Steinfort,Desconocido,"['Boite a outil', 'Sexy Boys', 'Absurdus']","['Actor', 'Director']",Desconocido,--
+491,Elaine Bonsangue,Desconocido,"['Midway - Tra la vita e la morte', ""L'uomo di vetro"", 'I Viceré', 'Nickn@me']",['Actress'],Desconocido,--
+492,Gabriele Greco,1976,"['Un tango prima di tornare', 'Don Matteo', 'Il giovane Pertini - Combattente per la libertà', 'Capri']","['Actor', 'Costume Designer']",1 win,--
+493,Ivana Massetti,Desconocido,"['The Life of Luciano Pavarotti', 'Leonardo', 'Mr. Gladiator', ""All the Queen's Men""]","['Writer', 'Director', 'Producer']",Desconocido,--
+494,Linda Michaels,Desconocido,"['Profiler', ""Bird's Eye Witness"", 'Gilmore Girls', 'Diagnosis Murder']",['Actress'],Desconocido,--
+495,Jon Sperry,Desconocido,"['The Piano', 'Thelma & Louise', 'Westworld', 'Reservoir Dogs']","['Additional Crew', 'Actor', 'Producer']",Desconocido,--
+496,Patti Troisi,5,"['The Last Tycoon', 'Selfie', 'Custody Road']","['Actress', 'Additional Crew']",Desconocido,--
+497,Barry MacKinnon,Desconocido,"['Moose Hunter', 'Starhunter']","['Actor', 'Director', 'Writer']",Desconocido,--
+498,Lucia Poli,1940,"['Albergo Roma', 'Gostanza da Libbiano', 'The Double Hour', 'The Tiger and the Snow']",['Actress'],1 win & 2 nominations,--
+499,Nathan Hill,Desconocido,"['Lady Terror', 'Revenge of the Gweilo', 'Jasper', 'Fox Force']","['Actor', 'Producer', 'Director']",11 wins & 44 nominations,--
+500,Niobe Dean,Desconocido,"['Broken Allegiance', 'Shackle', 'Piggy', 'Neighbours']",['Actress'],Desconocido,--
+501,Steve O'Donnell,Desconocido,"['Queen of the Damned', 'The Upsell', 'The Unrequited', 'The Block']","['Actor', 'Additional Crew']",Desconocido,--
+502,Candice Day,Desconocido,"['Ghost Rider', ""Charlotte's Web"", 'Fox Force', 'Jasper']","['Camera and Electrical Department', 'Actress', 'Cinematographer']",Desconocido,--
+503,Luke Banyai,Desconocido,"['Mary Worth', 'Fox Force', 'Hotel Motel', 'The Girl and the Gun']","['Sound Department', 'Actor', 'Director']",Desconocido,--
+504,Michael Farrugia,Desconocido,"['The Count of Monte Cristo', 'The Impasse', 'Mating Habits of the Homo-Sapien', 'The Unrequited']","['Actor', 'Additional Crew']",Desconocido,--
+505,Felicity King,Desconocido,"['Home', 'The Impasse', 'Nice to Meet Yoshiko', 'Opraholic']","['Actress', 'Director', 'Writer']",Desconocido,--
+506,Stuart Van Eysden,Desconocido,"['Teddy', 'The Magic Sledgehammer', 'Mating Habits of the Homo-Sapien', 'Fox Force']","['Cinematographer', 'Editor', 'Producer']",Desconocido,--
+507,Lluís M. Campos,Desconocido,['La introspección sobre la bazofia cinegética del trébede en el linde del camote'],"['Director', 'Actor', 'Writer']",Desconocido,--
